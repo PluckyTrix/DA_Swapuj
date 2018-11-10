@@ -1,0 +1,1057 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Created>2015-06-05T18:19:34Z</Created>
+  <LastSaved>2015-06-05T18:19:39Z</LastSaved>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+  <RemovePersonalInformation/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>12648</WindowHeight>
+  <WindowWidth>22260</WindowWidth>
+  <WindowTopX>32767</WindowTopX>
+  <WindowTopY>32767</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="List1">
+  <Table ss:ExpandedColumnCount="8" ss:ExpandedRowCount="100" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="14.4">
+   <Row>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">Třešně</Data></Cell>
+    <Cell><Data ss:Type="Number">9</Data></Cell>
+    <Cell><Data ss:Type="String">Jana</Data></Cell>
+    <Cell><Data ss:Type="Number">49.735900000000001</Data></Cell>
+    <Cell><Data ss:Type="Number">16.236799999999999</Data></Cell>
+    <Cell><Data ss:Type="String">produkty@email.cz</Data></Cell>
+    <Cell><Data ss:Type="String">Vyměním za kilo Meruňky</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="String">Mléko</Data></Cell>
+    <Cell><Data ss:Type="Number">6</Data></Cell>
+    <Cell><Data ss:Type="String">Viktorie</Data></Cell>
+    <Cell><Data ss:Type="Number">49.344999999999999</Data></Cell>
+    <Cell><Data ss:Type="Number">16.037400000000002</Data></Cell>
+    <Cell><Data ss:Type="String">produkty@email.cz</Data></Cell>
+    <Cell><Data ss:Type="String">Vyměním za kilo Cibule</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="String">Jablka</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="String">Lucie</Data></Cell>
+    <Cell><Data ss:Type="Number">49.847099999999998</Data></Cell>
+    <Cell><Data ss:Type="Number">16.6447</Data></Cell>
+    <Cell><Data ss:Type="String">blabla@email.cz</Data></Cell>
+    <Cell><Data ss:Type="String">Vyměním za kilo Jablka</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell><Data ss:Type="String">Jablka</Data></Cell>
+    <Cell><Data ss:Type="Number">7</Data></Cell>
+    <Cell><Data ss:Type="String">Marek</Data></Cell>
+    <Cell><Data ss:Type="Number">49.882899999999999</Data></Cell>
+    <Cell><Data ss:Type="Number">16.194400000000002</Data></Cell>
+    <Cell><Data ss:Type="String">info@email.cz</Data></Cell>
+    <Cell><Data ss:Type="String">Vyměním za kilo Cibule</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">Rajčata</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="String">Filip</Data></Cell>
+    <Cell><Data ss:Type="Number">49.526800000000001</Data></Cell>
+    <Cell><Data ss:Type="Number">16.739699999999999</Data></Cell>
+    <Cell><Data ss:Type="String">produkty@email.cz</Data></Cell>
+    <Cell><Data ss:Type="String">Vyměním za kilo Cibule</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">6</Data></Cell>
+    <Cell><Data ss:Type="String">Cibule</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">Lucie</Data></Cell>
+    <Cell><Data ss:Type="Number">49.723100000000002</Data></Cell>
+    <Cell><Data ss:Type="Number">16.429300000000001</Data></Cell>
+    <Cell><Data ss:Type="String">projekt_13@email.cz</Data></Cell>
+    <Cell><Data ss:Type="String">Vyměním za kilo Brambory</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">7</Data></Cell>
+    <Cell><Data ss:Type="String">Mrkev</Data></Cell>
+    <Cell><Data ss:Type="Number">7</Data></Cell>
+    <Cell><Data ss:Type="String">Radim</Data></Cell>
+    <Cell><Data ss:Type="Number">49.157800000000002</Data></Cell>
+    <Cell><Data ss:Type="Number">16.342600000000001</Data></Cell>
+    <Cell><Data ss:Type="String">produkty@email.cz</Data></Cell>
+    <Cell><Data ss:Type="String">Vyměním za kilo Brambory</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">8</Data></Cell>
+    <Cell><Data ss:Type="String">Česnek</Data></Cell>
+    <Cell><Data ss:Type="Number">9</Data></Cell>
+    <Cell><Data ss:Type="String">Lucie</Data></Cell>
+    <Cell><Data ss:Type="Number">49.363100000000003</Data></Cell>
+    <Cell><Data ss:Type="Number">16.3474</Data></Cell>
+    <Cell><Data ss:Type="String">produkty@email.cz</Data></Cell>
+    <Cell><Data ss:Type="String">Vyměním za kilo Meruňky</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">9</Data></Cell>
+    <Cell><Data ss:Type="String">Mléko</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="String">Marek</Data></Cell>
+    <Cell><Data ss:Type="Number">49.996200000000002</Data></Cell>
+    <Cell><Data ss:Type="Number">16.688600000000001</Data></Cell>
+    <Cell><Data ss:Type="String">produkty@email.cz</Data></Cell>
+    <Cell><Data ss:Type="String">Vyměním za kilo Hrášek</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+    <Cell><Data ss:Type="String">Česnek</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="String">Lucie</Data></Cell>
+    <Cell><Data ss:Type="Number">49.8718</Data></Cell>
+    <Cell><Data ss:Type="Number">16.067399999999999</Data></Cell>
+    <Cell><Data ss:Type="String">beruska91@email.cz</Data></Cell>
+    <Cell><Data ss:Type="String">Vyměním za kilo Třešně</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">11</Data></Cell>
+    <Cell><Data ss:Type="String">Meruňky</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell><Data ss:Type="String">Štěpán</Data></Cell>
+    <Cell><Data ss:Type="Number">49.842100000000002</Data></Cell>
+    <Cell><Data ss:Type="Number">16.203900000000001</Data></Cell>
+    <Cell><Data ss:Type="String">beruska91@email.cz</Data></Cell>
+    <Cell><Data ss:Type="String">Vyměním za kilo Mrkev</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">12</Data></Cell>
+    <Cell><Data ss:Type="String">Hrášek</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="String">Jana</Data></Cell>
+    <Cell><Data ss:Type="Number">49.386400000000002</Data></Cell>
+    <Cell><Data ss:Type="Number">16.605899999999998</Data></Cell>
+    <Cell><Data ss:Type="String">projekt_13@email.cz</Data></Cell>
+    <Cell><Data ss:Type="String">Vyměním za kilo Hrášek</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">13</Data></Cell>
+    <Cell><Data ss:Type="String">Brambory</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="String">Štěpán</Data></Cell>
+    <Cell><Data ss:Type="Number">49.162599999999998</Data></Cell>
+    <Cell><Data ss:Type="Number">16.2346</Data></Cell>
+    <Cell><Data ss:Type="String">beruska91@email.cz</Data></Cell>
+    <Cell><Data ss:Type="String">Vyměním za kilo Meruňky</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">14</Data></Cell>
+    <Cell><Data ss:Type="String">Mléko</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="String">Petr</Data></Cell>
+    <Cell><Data ss:Type="Number">49.992100000000001</Data></Cell>
+    <Cell><Data ss:Type="Number">16.09</Data></Cell>
+    <Cell><Data ss:Type="String">projekt_13@email.cz</Data></Cell>
+    <Cell><Data ss:Type="String">Vyměním za kilo Rajčata</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">15</Data></Cell>
+    <Cell><Data ss:Type="String">Cibule</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">Štěpán</Data></Cell>
+    <Cell><Data ss:Type="Number">49.3217</Data></Cell>
+    <Cell><Data ss:Type="Number">16.125</Data></Cell>
+    <Cell><Data ss:Type="String">info@email.cz</Data></Cell>
+    <Cell><Data ss:Type="String">Vyměním za kilo Brambory</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">16</Data></Cell>
+    <Cell><Data ss:Type="String">Rajčata</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">Lucie</Data></Cell>
+    <Cell><Data ss:Type="Number">49.234699999999997</Data></Cell>
+    <Cell><Data ss:Type="Number">16.744800000000001</Data></Cell>
+    <Cell><Data ss:Type="String">produkty@email.cz</Data></Cell>
+    <Cell><Data ss:Type="String">Vyměním za kilo Brambory</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">17</Data></Cell>
+    <Cell><Data ss:Type="String">Hrášek</Data></Cell>
+    <Cell><Data ss:Type="Number">6</Data></Cell>
+    <Cell><Data ss:Type="String">Jana</Data></Cell>
+    <Cell><Data ss:Type="Number">49.7973</Data></Cell>
+    <Cell><Data ss:Type="Number">16.720600000000001</Data></Cell>
+    <Cell><Data ss:Type="String">blabla@email.cz</Data></Cell>
+    <Cell><Data ss:Type="String">Vyměním za kilo Hrušky</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">18</Data></Cell>
+    <Cell><Data ss:Type="String">Meruňky</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+    <Cell><Data ss:Type="String">Bohumil</Data></Cell>
+    <Cell><Data ss:Type="Number">49.235599999999998</Data></Cell>
+    <Cell><Data ss:Type="Number">16.613</Data></Cell>
+    <Cell><Data ss:Type="String">beruska91@email.cz</Data></Cell>
+    <Cell><Data ss:Type="String">Vyměním za kilo Rajčata</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">19</Data></Cell>
+    <Cell><Data ss:Type="String">Meruňky</Data></Cell>
+    <Cell><Data ss:Type="Number">9</Data></Cell>
+    <Cell><Data ss:Type="String">Filip</Data></Cell>
+    <Cell><Data ss:Type="Number">49.240200000000002</Data></Cell>
+    <Cell><Data ss:Type="Number">16.019100000000002</Data></Cell>
+    <Cell><Data ss:Type="String">projekt_13@email.cz</Data></Cell>
+    <Cell><Data ss:Type="String">Vyměním za kilo Jablka</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">20</Data></Cell>
+    <Cell><Data ss:Type="String">Hrušky</Data></Cell>
+    <Cell><Data ss:Type="Number">7</Data></Cell>
+    <Cell><Data ss:Type="String">Veronika</Data></Cell>
+    <Cell><Data ss:Type="Number">49.494999999999997</Data></Cell>
+    <Cell><Data ss:Type="Number">16.4619</Data></Cell>
+    <Cell><Data ss:Type="String">produkty@email.cz</Data></Cell>
+    <Cell><Data ss:Type="String">Vyměním za kilo Hrášek</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">21</Data></Cell>
+    <Cell><Data ss:Type="String">Česnek</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="String">Viktorie</Data></Cell>
+    <Cell><Data ss:Type="Number">49.778399999999998</Data></Cell>
+    <Cell><Data ss:Type="Number">16.1935</Data></Cell>
+    <Cell><Data ss:Type="String">blabla@email.cz</Data></Cell>
+    <Cell><Data ss:Type="String">Vyměním za kilo Česnek</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">22</Data></Cell>
+    <Cell><Data ss:Type="String">Cibule</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">Viktorie</Data></Cell>
+    <Cell><Data ss:Type="Number">49.603200000000001</Data></Cell>
+    <Cell><Data ss:Type="Number">16.880099999999999</Data></Cell>
+    <Cell><Data ss:Type="String">produkty@email.cz</Data></Cell>
+    <Cell><Data ss:Type="String">Vyměním za kilo Třešně</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">23</Data></Cell>
+    <Cell><Data ss:Type="String">Mrkev</Data></Cell>
+    <Cell><Data ss:Type="Number">7</Data></Cell>
+    <Cell><Data ss:Type="String">Radim</Data></Cell>
+    <Cell><Data ss:Type="Number">49.896700000000003</Data></Cell>
+    <Cell><Data ss:Type="Number">16.0609</Data></Cell>
+    <Cell><Data ss:Type="String">info@email.cz</Data></Cell>
+    <Cell><Data ss:Type="String">Vyměním za kilo Česnek</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">24</Data></Cell>
+    <Cell><Data ss:Type="String">Rajčata</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="String">Viktorie</Data></Cell>
+    <Cell><Data ss:Type="Number">49.133499999999998</Data></Cell>
+    <Cell><Data ss:Type="Number">16.5123</Data></Cell>
+    <Cell><Data ss:Type="String">info@email.cz</Data></Cell>
+    <Cell><Data ss:Type="String">Vyměním za kilo Rajčata</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">25</Data></Cell>
+    <Cell><Data ss:Type="String">Hrušky</Data></Cell>
+    <Cell><Data ss:Type="Number">7</Data></Cell>
+    <Cell><Data ss:Type="String">Viktorie</Data></Cell>
+    <Cell><Data ss:Type="Number">49.3568</Data></Cell>
+    <Cell><Data ss:Type="Number">16.782800000000002</Data></Cell>
+    <Cell><Data ss:Type="String">blabla@email.cz</Data></Cell>
+    <Cell><Data ss:Type="String">Vyměním za kilo Cibule</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">26</Data></Cell>
+    <Cell><Data ss:Type="String">Rajčata</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">Petr</Data></Cell>
+    <Cell><Data ss:Type="Number">49.664000000000001</Data></Cell>
+    <Cell><Data ss:Type="Number">16.258700000000001</Data></Cell>
+    <Cell><Data ss:Type="String">beruska91@email.cz</Data></Cell>
+    <Cell><Data ss:Type="String">Vyměním za kilo Rajčata</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">27</Data></Cell>
+    <Cell><Data ss:Type="String">Meruňky</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+    <Cell><Data ss:Type="String">Veronika</Data></Cell>
+    <Cell><Data ss:Type="Number">49.461799999999997</Data></Cell>
+    <Cell><Data ss:Type="Number">16.963999999999999</Data></Cell>
+    <Cell><Data ss:Type="String">beruska91@email.cz</Data></Cell>
+    <Cell><Data ss:Type="String">Vyměním za kilo Hrášek</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">28</Data></Cell>
+    <Cell><Data ss:Type="String">Hrušky</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">Štěpán</Data></Cell>
+    <Cell><Data ss:Type="Number">49.972299999999997</Data></Cell>
+    <Cell><Data ss:Type="Number">16.611799999999999</Data></Cell>
+    <Cell><Data ss:Type="String">produkty@email.cz</Data></Cell>
+    <Cell><Data ss:Type="String">Vyměním za kilo Cibule</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">29</Data></Cell>
+    <Cell><Data ss:Type="String">Hrušky</Data></Cell>
+    <Cell><Data ss:Type="Number">6</Data></Cell>
+    <Cell><Data ss:Type="String">Petra</Data></Cell>
+    <Cell><Data ss:Type="Number">49.003</Data></Cell>
+    <Cell><Data ss:Type="Number">16.8032</Data></Cell>
+    <Cell><Data ss:Type="String">projekt_13@email.cz</Data></Cell>
+    <Cell><Data ss:Type="String">Vyměním za kilo Hrušky</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">30</Data></Cell>
+    <Cell><Data ss:Type="String">Hrušky</Data></Cell>
+    <Cell><Data ss:Type="Number">7</Data></Cell>
+    <Cell><Data ss:Type="String">Marek</Data></Cell>
+    <Cell><Data ss:Type="Number">49.445399999999999</Data></Cell>
+    <Cell><Data ss:Type="Number">16.122599999999998</Data></Cell>
+    <Cell><Data ss:Type="String">produkty@email.cz</Data></Cell>
+    <Cell><Data ss:Type="String">Vyměním za kilo Mrkev</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">31</Data></Cell>
+    <Cell><Data ss:Type="String">Třešně</Data></Cell>
+    <Cell><Data ss:Type="Number">8</Data></Cell>
+    <Cell><Data ss:Type="String">Bohumil</Data></Cell>
+    <Cell><Data ss:Type="Number">49.0657</Data></Cell>
+    <Cell><Data ss:Type="Number">16.289200000000001</Data></Cell>
+    <Cell><Data ss:Type="String">beruska91@email.cz</Data></Cell>
+    <Cell><Data ss:Type="String">Vyměním za kilo Cibule</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">32</Data></Cell>
+    <Cell><Data ss:Type="String">Hrušky</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell><Data ss:Type="String">Veronika</Data></Cell>
+    <Cell><Data ss:Type="Number">49.0413</Data></Cell>
+    <Cell><Data ss:Type="Number">16.334700000000002</Data></Cell>
+    <Cell><Data ss:Type="String">beruska91@email.cz</Data></Cell>
+    <Cell><Data ss:Type="String">Vyměním za kilo Třešně</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">33</Data></Cell>
+    <Cell><Data ss:Type="String">Hrušky</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">Štěpán</Data></Cell>
+    <Cell><Data ss:Type="Number">49.463099999999997</Data></Cell>
+    <Cell><Data ss:Type="Number">16.885200000000001</Data></Cell>
+    <Cell><Data ss:Type="String">produkty@email.cz</Data></Cell>
+    <Cell><Data ss:Type="String">Vyměním za kilo Brambory</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">34</Data></Cell>
+    <Cell><Data ss:Type="String">Jablka</Data></Cell>
+    <Cell><Data ss:Type="Number">9</Data></Cell>
+    <Cell><Data ss:Type="String">Štěpán</Data></Cell>
+    <Cell><Data ss:Type="Number">49.239199999999997</Data></Cell>
+    <Cell><Data ss:Type="Number">16.990400000000001</Data></Cell>
+    <Cell><Data ss:Type="String">blabla@email.cz</Data></Cell>
+    <Cell><Data ss:Type="String">Vyměním za kilo Mléko</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">35</Data></Cell>
+    <Cell><Data ss:Type="String">Cibule</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell><Data ss:Type="String">Petr</Data></Cell>
+    <Cell><Data ss:Type="Number">49.577199999999998</Data></Cell>
+    <Cell><Data ss:Type="Number">16.669699999999999</Data></Cell>
+    <Cell><Data ss:Type="String">blabla@email.cz</Data></Cell>
+    <Cell><Data ss:Type="String">Vyměním za kilo Hrášek</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">36</Data></Cell>
+    <Cell><Data ss:Type="String">Rajčata</Data></Cell>
+    <Cell><Data ss:Type="Number">9</Data></Cell>
+    <Cell><Data ss:Type="String">Viktorie</Data></Cell>
+    <Cell><Data ss:Type="Number">49.657400000000003</Data></Cell>
+    <Cell><Data ss:Type="Number">16.556699999999999</Data></Cell>
+    <Cell><Data ss:Type="String">projekt_13@email.cz</Data></Cell>
+    <Cell><Data ss:Type="String">Vyměním za kilo Mléko</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">37</Data></Cell>
+    <Cell><Data ss:Type="String">Cibule</Data></Cell>
+    <Cell><Data ss:Type="Number">6</Data></Cell>
+    <Cell><Data ss:Type="String">Viktorie</Data></Cell>
+    <Cell><Data ss:Type="Number">49.890500000000003</Data></Cell>
+    <Cell><Data ss:Type="Number">16.311199999999999</Data></Cell>
+    <Cell><Data ss:Type="String">produkty@email.cz</Data></Cell>
+    <Cell><Data ss:Type="String">Vyměním za kilo Mléko</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">38</Data></Cell>
+    <Cell><Data ss:Type="String">Česnek</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="String">Petra</Data></Cell>
+    <Cell><Data ss:Type="Number">49.706000000000003</Data></Cell>
+    <Cell><Data ss:Type="Number">16.732099999999999</Data></Cell>
+    <Cell><Data ss:Type="String">produkty@email.cz</Data></Cell>
+    <Cell><Data ss:Type="String">Vyměním za kilo Meruňky</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">39</Data></Cell>
+    <Cell><Data ss:Type="String">Cibule</Data></Cell>
+    <Cell><Data ss:Type="Number">8</Data></Cell>
+    <Cell><Data ss:Type="String">Filip</Data></Cell>
+    <Cell><Data ss:Type="Number">49.9131</Data></Cell>
+    <Cell><Data ss:Type="Number">16.242999999999999</Data></Cell>
+    <Cell><Data ss:Type="String">produkty@email.cz</Data></Cell>
+    <Cell><Data ss:Type="String">Vyměním za kilo Jablka</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">40</Data></Cell>
+    <Cell><Data ss:Type="String">Třešně</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">Jana</Data></Cell>
+    <Cell><Data ss:Type="Number">49.143500000000003</Data></Cell>
+    <Cell><Data ss:Type="Number">16.029900000000001</Data></Cell>
+    <Cell><Data ss:Type="String">projekt_13@email.cz</Data></Cell>
+    <Cell><Data ss:Type="String">Vyměním za kilo Mrkev</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">41</Data></Cell>
+    <Cell><Data ss:Type="String">Česnek</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">Veronika</Data></Cell>
+    <Cell><Data ss:Type="Number">49.724800000000002</Data></Cell>
+    <Cell><Data ss:Type="Number">16.387599999999999</Data></Cell>
+    <Cell><Data ss:Type="String">blabla@email.cz</Data></Cell>
+    <Cell><Data ss:Type="String">Vyměním za kilo Česnek</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">42</Data></Cell>
+    <Cell><Data ss:Type="String">Cibule</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="String">Petra</Data></Cell>
+    <Cell><Data ss:Type="Number">49.559100000000001</Data></Cell>
+    <Cell><Data ss:Type="Number">16.468800000000002</Data></Cell>
+    <Cell><Data ss:Type="String">info@email.cz</Data></Cell>
+    <Cell><Data ss:Type="String">Vyměním za kilo Mrkev</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">43</Data></Cell>
+    <Cell><Data ss:Type="String">Mléko</Data></Cell>
+    <Cell><Data ss:Type="Number">8</Data></Cell>
+    <Cell><Data ss:Type="String">Petr</Data></Cell>
+    <Cell><Data ss:Type="Number">49.336599999999997</Data></Cell>
+    <Cell><Data ss:Type="Number">16.6387</Data></Cell>
+    <Cell><Data ss:Type="String">projekt_13@email.cz</Data></Cell>
+    <Cell><Data ss:Type="String">Vyměním za kilo Česnek</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">44</Data></Cell>
+    <Cell><Data ss:Type="String">Rajčata</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">Filip</Data></Cell>
+    <Cell><Data ss:Type="Number">49.100700000000003</Data></Cell>
+    <Cell><Data ss:Type="Number">16.971</Data></Cell>
+    <Cell><Data ss:Type="String">info@email.cz</Data></Cell>
+    <Cell><Data ss:Type="String">Vyměním za kilo Brambory</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">45</Data></Cell>
+    <Cell><Data ss:Type="String">Třešně</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+    <Cell><Data ss:Type="String">Radim</Data></Cell>
+    <Cell><Data ss:Type="Number">49.985399999999998</Data></Cell>
+    <Cell><Data ss:Type="Number">16.2256</Data></Cell>
+    <Cell><Data ss:Type="String">info@email.cz</Data></Cell>
+    <Cell><Data ss:Type="String">Vyměním za kilo Brambory</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">46</Data></Cell>
+    <Cell><Data ss:Type="String">Cibule</Data></Cell>
+    <Cell><Data ss:Type="Number">6</Data></Cell>
+    <Cell><Data ss:Type="String">Viktorie</Data></Cell>
+    <Cell><Data ss:Type="Number">49.378100000000003</Data></Cell>
+    <Cell><Data ss:Type="Number">16.936199999999999</Data></Cell>
+    <Cell><Data ss:Type="String">projekt_13@email.cz</Data></Cell>
+    <Cell><Data ss:Type="String">Vyměním za kilo Hrušky</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">47</Data></Cell>
+    <Cell><Data ss:Type="String">Rajčata</Data></Cell>
+    <Cell><Data ss:Type="Number">6</Data></Cell>
+    <Cell><Data ss:Type="String">Petr</Data></Cell>
+    <Cell><Data ss:Type="Number">49.4236</Data></Cell>
+    <Cell><Data ss:Type="Number">16.434799999999999</Data></Cell>
+    <Cell><Data ss:Type="String">projekt_13@email.cz</Data></Cell>
+    <Cell><Data ss:Type="String">Vyměním za kilo Hrušky</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">48</Data></Cell>
+    <Cell><Data ss:Type="String">Mléko</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="String">Lucie</Data></Cell>
+    <Cell><Data ss:Type="Number">49.876899999999999</Data></Cell>
+    <Cell><Data ss:Type="Number">16.682300000000001</Data></Cell>
+    <Cell><Data ss:Type="String">info@email.cz</Data></Cell>
+    <Cell><Data ss:Type="String">Vyměním za kilo Meruňky</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">49</Data></Cell>
+    <Cell><Data ss:Type="String">Cibule</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">Viktorie</Data></Cell>
+    <Cell><Data ss:Type="Number">49.016199999999998</Data></Cell>
+    <Cell><Data ss:Type="Number">16.466000000000001</Data></Cell>
+    <Cell><Data ss:Type="String">produkty@email.cz</Data></Cell>
+    <Cell><Data ss:Type="String">Vyměním za kilo Cibule</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">50</Data></Cell>
+    <Cell><Data ss:Type="String">Cibule</Data></Cell>
+    <Cell><Data ss:Type="Number">6</Data></Cell>
+    <Cell><Data ss:Type="String">Veronika</Data></Cell>
+    <Cell><Data ss:Type="Number">49.182600000000001</Data></Cell>
+    <Cell><Data ss:Type="Number">16.145900000000001</Data></Cell>
+    <Cell><Data ss:Type="String">produkty@email.cz</Data></Cell>
+    <Cell><Data ss:Type="String">Vyměním za kilo Mrkev</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">51</Data></Cell>
+    <Cell><Data ss:Type="String">Rajčata</Data></Cell>
+    <Cell><Data ss:Type="Number">7</Data></Cell>
+    <Cell><Data ss:Type="String">Petr</Data></Cell>
+    <Cell><Data ss:Type="Number">49.911200000000001</Data></Cell>
+    <Cell><Data ss:Type="Number">16.078299999999999</Data></Cell>
+    <Cell><Data ss:Type="String">info@email.cz</Data></Cell>
+    <Cell><Data ss:Type="String">Vyměním za kilo Jablka</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">52</Data></Cell>
+    <Cell><Data ss:Type="String">Cibule</Data></Cell>
+    <Cell><Data ss:Type="Number">9</Data></Cell>
+    <Cell><Data ss:Type="String">Lucie</Data></Cell>
+    <Cell><Data ss:Type="Number">49.555900000000001</Data></Cell>
+    <Cell><Data ss:Type="Number">16.040199999999999</Data></Cell>
+    <Cell><Data ss:Type="String">blabla@email.cz</Data></Cell>
+    <Cell><Data ss:Type="String">Vyměním za kilo Mrkev</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">53</Data></Cell>
+    <Cell><Data ss:Type="String">Mléko</Data></Cell>
+    <Cell><Data ss:Type="Number">8</Data></Cell>
+    <Cell><Data ss:Type="String">Bohumil</Data></Cell>
+    <Cell><Data ss:Type="Number">49.955100000000002</Data></Cell>
+    <Cell><Data ss:Type="Number">16.4758</Data></Cell>
+    <Cell><Data ss:Type="String">produkty@email.cz</Data></Cell>
+    <Cell><Data ss:Type="String">Vyměním za kilo Hrušky</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">54</Data></Cell>
+    <Cell><Data ss:Type="String">Hrášek</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+    <Cell><Data ss:Type="String">Radim</Data></Cell>
+    <Cell><Data ss:Type="Number">49.343299999999999</Data></Cell>
+    <Cell><Data ss:Type="Number">16.337700000000002</Data></Cell>
+    <Cell><Data ss:Type="String">produkty@email.cz</Data></Cell>
+    <Cell><Data ss:Type="String">Vyměním za kilo Cibule</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">55</Data></Cell>
+    <Cell><Data ss:Type="String">Česnek</Data></Cell>
+    <Cell><Data ss:Type="Number">8</Data></Cell>
+    <Cell><Data ss:Type="String">Veronika</Data></Cell>
+    <Cell><Data ss:Type="Number">49.551400000000001</Data></Cell>
+    <Cell><Data ss:Type="Number">16.301100000000002</Data></Cell>
+    <Cell><Data ss:Type="String">beruska91@email.cz</Data></Cell>
+    <Cell><Data ss:Type="String">Vyměním za kilo Rajčata</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">56</Data></Cell>
+    <Cell><Data ss:Type="String">Česnek</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+    <Cell><Data ss:Type="String">Filip</Data></Cell>
+    <Cell><Data ss:Type="Number">49.5886</Data></Cell>
+    <Cell><Data ss:Type="Number">16.325299999999999</Data></Cell>
+    <Cell><Data ss:Type="String">info@email.cz</Data></Cell>
+    <Cell><Data ss:Type="String">Vyměním za kilo Brambory</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">57</Data></Cell>
+    <Cell><Data ss:Type="String">Brambory</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">Radim</Data></Cell>
+    <Cell><Data ss:Type="Number">49.066299999999998</Data></Cell>
+    <Cell><Data ss:Type="Number">16.0014</Data></Cell>
+    <Cell><Data ss:Type="String">projekt_13@email.cz</Data></Cell>
+    <Cell><Data ss:Type="String">Vyměním za kilo Rajčata</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">58</Data></Cell>
+    <Cell><Data ss:Type="String">Meruňky</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">Petr</Data></Cell>
+    <Cell><Data ss:Type="Number">49.357599999999998</Data></Cell>
+    <Cell><Data ss:Type="Number">16.934100000000001</Data></Cell>
+    <Cell><Data ss:Type="String">blabla@email.cz</Data></Cell>
+    <Cell><Data ss:Type="String">Vyměním za kilo Mrkev</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">59</Data></Cell>
+    <Cell><Data ss:Type="String">Třešně</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+    <Cell><Data ss:Type="String">Marek</Data></Cell>
+    <Cell><Data ss:Type="Number">49.459400000000002</Data></Cell>
+    <Cell><Data ss:Type="Number">16.474799999999998</Data></Cell>
+    <Cell><Data ss:Type="String">info@email.cz</Data></Cell>
+    <Cell><Data ss:Type="String">Vyměním za kilo Mrkev</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">60</Data></Cell>
+    <Cell><Data ss:Type="String">Mrkev</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+    <Cell><Data ss:Type="String">Jana</Data></Cell>
+    <Cell><Data ss:Type="Number">49.6158</Data></Cell>
+    <Cell><Data ss:Type="Number">16.164400000000001</Data></Cell>
+    <Cell><Data ss:Type="String">projekt_13@email.cz</Data></Cell>
+    <Cell><Data ss:Type="String">Vyměním za kilo Meruňky</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">61</Data></Cell>
+    <Cell><Data ss:Type="String">Jablka</Data></Cell>
+    <Cell><Data ss:Type="Number">9</Data></Cell>
+    <Cell><Data ss:Type="String">Veronika</Data></Cell>
+    <Cell><Data ss:Type="Number">49.142699999999998</Data></Cell>
+    <Cell><Data ss:Type="Number">16.402999999999999</Data></Cell>
+    <Cell><Data ss:Type="String">blabla@email.cz</Data></Cell>
+    <Cell><Data ss:Type="String">Vyměním za kilo Cibule</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">62</Data></Cell>
+    <Cell><Data ss:Type="String">Jablka</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">Filip</Data></Cell>
+    <Cell><Data ss:Type="Number">49.450899999999997</Data></Cell>
+    <Cell><Data ss:Type="Number">16.614999999999998</Data></Cell>
+    <Cell><Data ss:Type="String">projekt_13@email.cz</Data></Cell>
+    <Cell><Data ss:Type="String">Vyměním za kilo Mrkev</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">63</Data></Cell>
+    <Cell><Data ss:Type="String">Hrášek</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+    <Cell><Data ss:Type="String">Štěpán</Data></Cell>
+    <Cell><Data ss:Type="Number">49.2605</Data></Cell>
+    <Cell><Data ss:Type="Number">16.774699999999999</Data></Cell>
+    <Cell><Data ss:Type="String">info@email.cz</Data></Cell>
+    <Cell><Data ss:Type="String">Vyměním za kilo Mrkev</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">64</Data></Cell>
+    <Cell><Data ss:Type="String">Brambory</Data></Cell>
+    <Cell><Data ss:Type="Number">9</Data></Cell>
+    <Cell><Data ss:Type="String">Filip</Data></Cell>
+    <Cell><Data ss:Type="Number">49.6462</Data></Cell>
+    <Cell><Data ss:Type="Number">16.555900000000001</Data></Cell>
+    <Cell><Data ss:Type="String">info@email.cz</Data></Cell>
+    <Cell><Data ss:Type="String">Vyměním za kilo Třešně</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">65</Data></Cell>
+    <Cell><Data ss:Type="String">Cibule</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+    <Cell><Data ss:Type="String">Lucie</Data></Cell>
+    <Cell><Data ss:Type="Number">49.063600000000001</Data></Cell>
+    <Cell><Data ss:Type="Number">16.642099999999999</Data></Cell>
+    <Cell><Data ss:Type="String">beruska91@email.cz</Data></Cell>
+    <Cell><Data ss:Type="String">Vyměním za kilo Hrášek</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">66</Data></Cell>
+    <Cell><Data ss:Type="String">Hrušky</Data></Cell>
+    <Cell><Data ss:Type="Number">6</Data></Cell>
+    <Cell><Data ss:Type="String">Viktorie</Data></Cell>
+    <Cell><Data ss:Type="Number">49.585299999999997</Data></Cell>
+    <Cell><Data ss:Type="Number">16.4727</Data></Cell>
+    <Cell><Data ss:Type="String">produkty@email.cz</Data></Cell>
+    <Cell><Data ss:Type="String">Vyměním za kilo Mléko</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">67</Data></Cell>
+    <Cell><Data ss:Type="String">Cibule</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">Petr</Data></Cell>
+    <Cell><Data ss:Type="Number">49.430799999999998</Data></Cell>
+    <Cell><Data ss:Type="Number">16.7851</Data></Cell>
+    <Cell><Data ss:Type="String">info@email.cz</Data></Cell>
+    <Cell><Data ss:Type="String">Vyměním za kilo Jablka</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">68</Data></Cell>
+    <Cell><Data ss:Type="String">Hrášek</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="String">Jana</Data></Cell>
+    <Cell><Data ss:Type="Number">49.172400000000003</Data></Cell>
+    <Cell><Data ss:Type="Number">16.566500000000001</Data></Cell>
+    <Cell><Data ss:Type="String">info@email.cz</Data></Cell>
+    <Cell><Data ss:Type="String">Vyměním za kilo Jablka</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">69</Data></Cell>
+    <Cell><Data ss:Type="String">Cibule</Data></Cell>
+    <Cell><Data ss:Type="Number">8</Data></Cell>
+    <Cell><Data ss:Type="String">Filip</Data></Cell>
+    <Cell><Data ss:Type="Number">49.725700000000003</Data></Cell>
+    <Cell><Data ss:Type="Number">16.484300000000001</Data></Cell>
+    <Cell><Data ss:Type="String">projekt_13@email.cz</Data></Cell>
+    <Cell><Data ss:Type="String">Vyměním za kilo Třešně</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">70</Data></Cell>
+    <Cell><Data ss:Type="String">Brambory</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="String">Marek</Data></Cell>
+    <Cell><Data ss:Type="Number">49.506</Data></Cell>
+    <Cell><Data ss:Type="Number">16.298999999999999</Data></Cell>
+    <Cell><Data ss:Type="String">info@email.cz</Data></Cell>
+    <Cell><Data ss:Type="String">Vyměním za kilo Brambory</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">71</Data></Cell>
+    <Cell><Data ss:Type="String">Mrkev</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="String">Viktorie</Data></Cell>
+    <Cell><Data ss:Type="Number">49.547600000000003</Data></Cell>
+    <Cell><Data ss:Type="Number">16.883400000000002</Data></Cell>
+    <Cell><Data ss:Type="String">produkty@email.cz</Data></Cell>
+    <Cell><Data ss:Type="String">Vyměním za kilo Jablka</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">72</Data></Cell>
+    <Cell><Data ss:Type="String">Hrušky</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+    <Cell><Data ss:Type="String">Filip</Data></Cell>
+    <Cell><Data ss:Type="Number">49.595599999999997</Data></Cell>
+    <Cell><Data ss:Type="Number">16.760400000000001</Data></Cell>
+    <Cell><Data ss:Type="String">beruska91@email.cz</Data></Cell>
+    <Cell><Data ss:Type="String">Vyměním za kilo Mrkev</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">73</Data></Cell>
+    <Cell><Data ss:Type="String">Jablka</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell><Data ss:Type="String">Lucie</Data></Cell>
+    <Cell><Data ss:Type="Number">49.811</Data></Cell>
+    <Cell><Data ss:Type="Number">16.369700000000002</Data></Cell>
+    <Cell><Data ss:Type="String">blabla@email.cz</Data></Cell>
+    <Cell><Data ss:Type="String">Vyměním za kilo Třešně</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">74</Data></Cell>
+    <Cell><Data ss:Type="String">Jablka</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">Štěpán</Data></Cell>
+    <Cell><Data ss:Type="Number">49.385800000000003</Data></Cell>
+    <Cell><Data ss:Type="Number">16.305800000000001</Data></Cell>
+    <Cell><Data ss:Type="String">beruska91@email.cz</Data></Cell>
+    <Cell><Data ss:Type="String">Vyměním za kilo Mléko</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">75</Data></Cell>
+    <Cell><Data ss:Type="String">Třešně</Data></Cell>
+    <Cell><Data ss:Type="Number">9</Data></Cell>
+    <Cell><Data ss:Type="String">Filip</Data></Cell>
+    <Cell><Data ss:Type="Number">49.450800000000001</Data></Cell>
+    <Cell><Data ss:Type="Number">16.046900000000001</Data></Cell>
+    <Cell><Data ss:Type="String">produkty@email.cz</Data></Cell>
+    <Cell><Data ss:Type="String">Vyměním za kilo Meruňky</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">76</Data></Cell>
+    <Cell><Data ss:Type="String">Jablka</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">Radim</Data></Cell>
+    <Cell><Data ss:Type="Number">49.203299999999999</Data></Cell>
+    <Cell><Data ss:Type="Number">16.6968</Data></Cell>
+    <Cell><Data ss:Type="String">projekt_13@email.cz</Data></Cell>
+    <Cell><Data ss:Type="String">Vyměním za kilo Mrkev</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">77</Data></Cell>
+    <Cell><Data ss:Type="String">Mléko</Data></Cell>
+    <Cell><Data ss:Type="Number">7</Data></Cell>
+    <Cell><Data ss:Type="String">Viktorie</Data></Cell>
+    <Cell><Data ss:Type="Number">49.029699999999998</Data></Cell>
+    <Cell><Data ss:Type="Number">16.388000000000002</Data></Cell>
+    <Cell><Data ss:Type="String">projekt_13@email.cz</Data></Cell>
+    <Cell><Data ss:Type="String">Vyměním za kilo Brambory</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">78</Data></Cell>
+    <Cell><Data ss:Type="String">Mrkev</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">Štěpán</Data></Cell>
+    <Cell><Data ss:Type="Number">49.532800000000002</Data></Cell>
+    <Cell><Data ss:Type="Number">16.256799999999998</Data></Cell>
+    <Cell><Data ss:Type="String">projekt_13@email.cz</Data></Cell>
+    <Cell><Data ss:Type="String">Vyměním za kilo Cibule</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">79</Data></Cell>
+    <Cell><Data ss:Type="String">Jablka</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="String">Veronika</Data></Cell>
+    <Cell><Data ss:Type="Number">49.139000000000003</Data></Cell>
+    <Cell><Data ss:Type="Number">16.125699999999998</Data></Cell>
+    <Cell><Data ss:Type="String">beruska91@email.cz</Data></Cell>
+    <Cell><Data ss:Type="String">Vyměním za kilo Jablka</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">80</Data></Cell>
+    <Cell><Data ss:Type="String">Meruňky</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+    <Cell><Data ss:Type="String">Filip</Data></Cell>
+    <Cell><Data ss:Type="Number">49.442100000000003</Data></Cell>
+    <Cell><Data ss:Type="Number">16.709900000000001</Data></Cell>
+    <Cell><Data ss:Type="String">beruska91@email.cz</Data></Cell>
+    <Cell><Data ss:Type="String">Vyměním za kilo Brambory</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">81</Data></Cell>
+    <Cell><Data ss:Type="String">Brambory</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">Petr</Data></Cell>
+    <Cell><Data ss:Type="Number">49.034199999999998</Data></Cell>
+    <Cell><Data ss:Type="Number">16.193000000000001</Data></Cell>
+    <Cell><Data ss:Type="String">projekt_13@email.cz</Data></Cell>
+    <Cell><Data ss:Type="String">Vyměním za kilo Rajčata</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">82</Data></Cell>
+    <Cell><Data ss:Type="String">Meruňky</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">Bohumil</Data></Cell>
+    <Cell><Data ss:Type="Number">49.451599999999999</Data></Cell>
+    <Cell><Data ss:Type="Number">16.124099999999999</Data></Cell>
+    <Cell><Data ss:Type="String">info@email.cz</Data></Cell>
+    <Cell><Data ss:Type="String">Vyměním za kilo Cibule</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">83</Data></Cell>
+    <Cell><Data ss:Type="String">Mléko</Data></Cell>
+    <Cell><Data ss:Type="Number">6</Data></Cell>
+    <Cell><Data ss:Type="String">Veronika</Data></Cell>
+    <Cell><Data ss:Type="Number">49.0627</Data></Cell>
+    <Cell><Data ss:Type="Number">16.861999999999998</Data></Cell>
+    <Cell><Data ss:Type="String">blabla@email.cz</Data></Cell>
+    <Cell><Data ss:Type="String">Vyměním za kilo Cibule</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">84</Data></Cell>
+    <Cell><Data ss:Type="String">Jablka</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">Jana</Data></Cell>
+    <Cell><Data ss:Type="Number">49.911999999999999</Data></Cell>
+    <Cell><Data ss:Type="Number">16.119800000000001</Data></Cell>
+    <Cell><Data ss:Type="String">projekt_13@email.cz</Data></Cell>
+    <Cell><Data ss:Type="String">Vyměním za kilo Česnek</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">85</Data></Cell>
+    <Cell><Data ss:Type="String">Hrušky</Data></Cell>
+    <Cell><Data ss:Type="Number">8</Data></Cell>
+    <Cell><Data ss:Type="String">Radim</Data></Cell>
+    <Cell><Data ss:Type="Number">49.513300000000001</Data></Cell>
+    <Cell><Data ss:Type="Number">16.183199999999999</Data></Cell>
+    <Cell><Data ss:Type="String">produkty@email.cz</Data></Cell>
+    <Cell><Data ss:Type="String">Vyměním za kilo Česnek</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">86</Data></Cell>
+    <Cell><Data ss:Type="String">Mléko</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">Lucie</Data></Cell>
+    <Cell><Data ss:Type="Number">49.191600000000001</Data></Cell>
+    <Cell><Data ss:Type="Number">16.087900000000001</Data></Cell>
+    <Cell><Data ss:Type="String">beruska91@email.cz</Data></Cell>
+    <Cell><Data ss:Type="String">Vyměním za kilo Mrkev</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">87</Data></Cell>
+    <Cell><Data ss:Type="String">Hrušky</Data></Cell>
+    <Cell><Data ss:Type="Number">6</Data></Cell>
+    <Cell><Data ss:Type="String">Štěpán</Data></Cell>
+    <Cell><Data ss:Type="Number">49.6999</Data></Cell>
+    <Cell><Data ss:Type="Number">16.7867</Data></Cell>
+    <Cell><Data ss:Type="String">projekt_13@email.cz</Data></Cell>
+    <Cell><Data ss:Type="String">Vyměním za kilo Meruňky</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">88</Data></Cell>
+    <Cell><Data ss:Type="String">Rajčata</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">Viktorie</Data></Cell>
+    <Cell><Data ss:Type="Number">49.326300000000003</Data></Cell>
+    <Cell><Data ss:Type="Number">16.737200000000001</Data></Cell>
+    <Cell><Data ss:Type="String">info@email.cz</Data></Cell>
+    <Cell><Data ss:Type="String">Vyměním za kilo Brambory</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">89</Data></Cell>
+    <Cell><Data ss:Type="String">Hrušky</Data></Cell>
+    <Cell><Data ss:Type="Number">9</Data></Cell>
+    <Cell><Data ss:Type="String">Radim</Data></Cell>
+    <Cell><Data ss:Type="Number">49.576000000000001</Data></Cell>
+    <Cell><Data ss:Type="Number">16.418399999999998</Data></Cell>
+    <Cell><Data ss:Type="String">projekt_13@email.cz</Data></Cell>
+    <Cell><Data ss:Type="String">Vyměním za kilo Cibule</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">90</Data></Cell>
+    <Cell><Data ss:Type="String">Hrušky</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell><Data ss:Type="String">Filip</Data></Cell>
+    <Cell><Data ss:Type="Number">49.057899999999997</Data></Cell>
+    <Cell><Data ss:Type="Number">16.534800000000001</Data></Cell>
+    <Cell><Data ss:Type="String">blabla@email.cz</Data></Cell>
+    <Cell><Data ss:Type="String">Vyměním za kilo Mléko</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">91</Data></Cell>
+    <Cell><Data ss:Type="String">Česnek</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell><Data ss:Type="String">Petra</Data></Cell>
+    <Cell><Data ss:Type="Number">49.9375</Data></Cell>
+    <Cell><Data ss:Type="Number">16.536200000000001</Data></Cell>
+    <Cell><Data ss:Type="String">beruska91@email.cz</Data></Cell>
+    <Cell><Data ss:Type="String">Vyměním za kilo Brambory</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">92</Data></Cell>
+    <Cell><Data ss:Type="String">Brambory</Data></Cell>
+    <Cell><Data ss:Type="Number">6</Data></Cell>
+    <Cell><Data ss:Type="String">Bohumil</Data></Cell>
+    <Cell><Data ss:Type="Number">49.766100000000002</Data></Cell>
+    <Cell><Data ss:Type="Number">16.8066</Data></Cell>
+    <Cell><Data ss:Type="String">produkty@email.cz</Data></Cell>
+    <Cell><Data ss:Type="String">Vyměním za kilo Rajčata</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">93</Data></Cell>
+    <Cell><Data ss:Type="String">Třešně</Data></Cell>
+    <Cell><Data ss:Type="Number">9</Data></Cell>
+    <Cell><Data ss:Type="String">Marek</Data></Cell>
+    <Cell><Data ss:Type="Number">49.787799999999997</Data></Cell>
+    <Cell><Data ss:Type="Number">16.6553</Data></Cell>
+    <Cell><Data ss:Type="String">projekt_13@email.cz</Data></Cell>
+    <Cell><Data ss:Type="String">Vyměním za kilo Třešně</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">94</Data></Cell>
+    <Cell><Data ss:Type="String">Mléko</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">Bohumil</Data></Cell>
+    <Cell><Data ss:Type="Number">49.564900000000002</Data></Cell>
+    <Cell><Data ss:Type="Number">16.608499999999999</Data></Cell>
+    <Cell><Data ss:Type="String">beruska91@email.cz</Data></Cell>
+    <Cell><Data ss:Type="String">Vyměním za kilo Jablka</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">95</Data></Cell>
+    <Cell><Data ss:Type="String">Meruňky</Data></Cell>
+    <Cell><Data ss:Type="Number">7</Data></Cell>
+    <Cell><Data ss:Type="String">Lucie</Data></Cell>
+    <Cell><Data ss:Type="Number">49.952800000000003</Data></Cell>
+    <Cell><Data ss:Type="Number">16.667300000000001</Data></Cell>
+    <Cell><Data ss:Type="String">projekt_13@email.cz</Data></Cell>
+    <Cell><Data ss:Type="String">Vyměním za kilo Mléko</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">96</Data></Cell>
+    <Cell><Data ss:Type="String">Hrášek</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="String">Filip</Data></Cell>
+    <Cell><Data ss:Type="Number">49.722200000000001</Data></Cell>
+    <Cell><Data ss:Type="Number">16.923200000000001</Data></Cell>
+    <Cell><Data ss:Type="String">projekt_13@email.cz</Data></Cell>
+    <Cell><Data ss:Type="String">Vyměním za kilo Rajčata</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">97</Data></Cell>
+    <Cell><Data ss:Type="String">Jablka</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">Veronika</Data></Cell>
+    <Cell><Data ss:Type="Number">49.301600000000001</Data></Cell>
+    <Cell><Data ss:Type="Number">16.833400000000001</Data></Cell>
+    <Cell><Data ss:Type="String">beruska91@email.cz</Data></Cell>
+    <Cell><Data ss:Type="String">Vyměním za kilo Cibule</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">98</Data></Cell>
+    <Cell><Data ss:Type="String">Hrášek</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+    <Cell><Data ss:Type="String">Lucie</Data></Cell>
+    <Cell><Data ss:Type="Number">49.3416</Data></Cell>
+    <Cell><Data ss:Type="Number">16.994900000000001</Data></Cell>
+    <Cell><Data ss:Type="String">info@email.cz</Data></Cell>
+    <Cell><Data ss:Type="String">Vyměním za kilo Hrášek</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">99</Data></Cell>
+    <Cell><Data ss:Type="String">Meruňky</Data></Cell>
+    <Cell><Data ss:Type="Number">7</Data></Cell>
+    <Cell><Data ss:Type="String">Jana</Data></Cell>
+    <Cell><Data ss:Type="Number">49.21</Data></Cell>
+    <Cell><Data ss:Type="Number">16.4222</Data></Cell>
+    <Cell><Data ss:Type="String">beruska91@email.cz</Data></Cell>
+    <Cell><Data ss:Type="String">Vyměním za kilo Meruňky</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">100</Data></Cell>
+    <Cell><Data ss:Type="String">Česnek</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">Veronika</Data></Cell>
+    <Cell><Data ss:Type="Number">49.1873</Data></Cell>
+    <Cell><Data ss:Type="Number">16.534500000000001</Data></Cell>
+    <Cell><Data ss:Type="String">blabla@email.cz</Data></Cell>
+    <Cell><Data ss:Type="String">Vyměním za kilo Jablka</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>9</ActiveRow>
+     <ActiveCol>12</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
